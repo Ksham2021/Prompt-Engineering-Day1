@@ -15,7 +15,7 @@ Generate a professional leave request email.
 Write an email requesting leave.
 
 ### Before Output
-(To be added after testing in Claude.)
+Claude requested additional information because the prompt did not specify the type of leave.
 
 ### Improved Prompt
 Write a professional email requesting one day of leave due to a medical appointment.
@@ -28,7 +28,22 @@ Requirements:
 - End with a formal closing.
 
 ### After Output
-(To be added after testing in Claude.)
+Subject: Leave Request for Medical Appointment – [Date]
+
+Dear [Manager's Name],
+
+I hope this email finds you well. I am writing to request one day of leave on [date] as I have a scheduled medical appointment that cannot be rescheduled.
+
+I have ensured that all my pending tasks and responsibilities are completed and up to date. I will also remain reachable via email for any urgent matters that may arise during my absence.
+
+I would appreciate your approval for this leave. Please let me know if any further information is needed.
+
+Thank you for your understanding.
+
+Warm regards,
+[Your Name]
+
+(Word count: ~95 words — replace bracketed placeholders as needed.)
 
 ### Why the Improved Prompt is Better
 - Provides clear context.
