@@ -1,1 +1,6 @@
-# No external libraries required for this assignment.
+No external Python libraries are required for this assignment.
+
+Tools Used:
+- Claude AI
+- GitHub
+- Markdown
